@@ -4,4 +4,4 @@
 <p> Glass/plastic bottle: soail, water gard and other small items </p>
 <p> Cans: soail, water gard and other small items </p>
 <p> Tin Cans: To plant, to hold writing utensils </p>
-
+<p> Plastic bags: To bring in shopping items </p>
