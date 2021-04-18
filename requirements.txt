@@ -1,0 +1,7 @@
+matplotlib==3.2.2
+numpy==1.18.5
+seaborn==0.10.1
+streamlit==0.80.0
+torch==1.6.0
+torchaudio==0.8.1
+torchvision==0.7.0
