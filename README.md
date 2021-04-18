@@ -2,7 +2,7 @@
   <h1> Reusable items: </h1>
 <p> Glass jar: Can be used for storing beans, spices, buttons or something like this </p>
 <p> Papers: Art crafts (3.6 million metric tons) </p>
-<p> Cans: soail, water gard and other small items </p>
+<p> Plastic Cans: soail, water gard and other small items </p>
 <p> Tin Cans: To plant, to hold writing utensils (70% if we reuse it) </p>
 <p> Plastic bags: To bring in groceries </p> 
 <p>  </p>
