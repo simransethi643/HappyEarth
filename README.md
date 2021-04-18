@@ -9,7 +9,7 @@
 <h1> Non Resuseable items: </h1>
 <p> Food waste (6% that is responsible to global greenhouse) </p>
 <p> Broken glass </p>
-<p> Food waste </p>
+<p>  </p>
 <p> Windows and mirrors </p>
 <p> Used paper towels and/or paper napkins </p>
 <p>  </p>
