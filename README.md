@@ -19,3 +19,4 @@
 <p> Blue, Marie-Luise. “What Is the Carbon Footprint of a Plastic Bottle?” Sciencing, 2 Mar. 2019, sciencing.com/carbon-footprint-plastic-bottle-12307187.html. </p>  
 <p> Ritchie, Hannah. “Food Waste Is Responsible for 6% of Global Greenhouse Gas Emissions.” Our World in Data, ourworldindata.org/food-waste-emissions. </p>
 <p> https://www.bieroundtable.com/wp-content/uploads/49d7a0_7a5cfa72d8e74c04be5aeb81f38b136b.pdf </p>
+<p> https://www.healthline.com/health/reusing-plastic-bottles#:~:text=Plastic%20bottles%20of%20any%20kind,aren%27t%20recommended%20for%20reuse. </p>
