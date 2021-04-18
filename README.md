@@ -7,7 +7,7 @@
 <p> Plastic bags: To bring in groceries </p> 
 <p>  </p>
 <h1> Non Resuseable items: </h1>
-<p> Food waste </p>
+<p> Food waste (6% that is responsible to global greenhouse) </p>
 <p> Broken glass </p>
 <p> Food waste </p>
 <p> Windows and mirrors </p>
