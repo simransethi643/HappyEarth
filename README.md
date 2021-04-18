@@ -4,7 +4,7 @@
 <p> Papers: Art crafts (3.6 million metric tons) </p>
 <p> Tin Cans: To plant, to hold writing utensils (70% if we reuse it) </p>
 <p> Plastic bags: To bring in groceries </p> 
-Iteams that is made form styrofoam: cups,
+<p> Items that is made form styrofoam: cups, food carry out </p>
 <p>  </p>
 <h1> Non Resuseable items: </h1>
 <p> Food waste (6% that is responsible to global greenhouse) </p>
