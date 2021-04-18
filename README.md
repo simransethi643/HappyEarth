@@ -4,6 +4,7 @@
 <p> Papers: Art crafts (3.6 million metric tons) </p>
 <p> Tin Cans: To plant, to hold writing utensils (70% if we reuse it) </p>
 <p> Plastic bags: To bring in groceries </p> 
+Iteams that is made form styrofoam: cups,
 <p>  </p>
 <h1> Non Resuseable items: </h1>
 <p> Food waste (6% that is responsible to global greenhouse) </p>
@@ -13,6 +14,7 @@
 <p> Used paper towels and/or paper napkins </p>
 <p>  </p>
 <h1> Citation: </h1>
+<p> “Collier County, FL.” The Facts On Styrofoam: Reduce and Reuse | Collier County, FL, www.colliercountyfl.gov/your-government/divisions-s-z/solid-hazardous-waste-management/keeping-green-helpful-information-page/the-facts-on-styrofoam-reduce-and-reuse. </p> 
 <p> “How Recycling Paper Fights Global Warming.” Paper Recycling Coalition " How Recycling Paper Fights Global Warming, www.paperrecyclingcoalition.com/policyissues/how-recycling-paper-fights-global-warming/. </p> 
 <p> “Tin Can: Recycle and Reuse.” SCIplanet, www.bibalex.org/sciplanet/en/article/details.aspx?id=10291#:~:text=Reuse%20is%20often%20confused%20with,they%20are%20actually%20quite%20different.&amp;text=While%20nearly%20everyone%20can%20participate,to%20produce%20new%20useful%20things. </p>  
 <p> Baker, Libby. “10 Home Items You Can Reuse Over and Over Again.” One Green Planet, One Green Planet, 28 Oct. 2020, www.onegreenplanet.org/lifestyle/home-items-you-can-reuse-over-and-over-again/. </p>
